@@ -1,7 +1,7 @@
 # wikiplant
 Sistema de informações e ajuda sobre cultivo de plantas
 
-![Home page](https://github.com/4ly-a/wikiplant/blob/page/assets/wallpaper.jpg)
+![Home page](https://raw.githubusercontent.com/4ly-a/wikiplant/page/assets/wallpaper.jpg)
 
 Um dos meus primeiros contatos com a programação,Wikiplant foi um projeto que desenvolvi com mais quatro amigos do meu curso técnico, o objetivo era criar um site onde se pudesse obter informações sobre o cuidado de plantas, e futuramente, utilizando um raspberry pi implantado nas plantas, colher informações como temperatura, umidade e gerar um log sobre a qualidade da planta em geral, e a saúde dela. 
 
