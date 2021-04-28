@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Wikiplant
 description: Sistema de informações e ajuda sobre cultivo de plantas
-logo: ./assets/logo.png
+logo: https://raw.githubusercontent.com/4ly-a/wikiplant/page/assets/logo.png
