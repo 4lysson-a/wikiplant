@@ -9,7 +9,7 @@ div#myCarousel{
 /*Sobre css*/
 
 section#sobre{
-    background-image: url(../_img/sobre.jpg);
+    background-image: url(../img/sobre.jpg);
     background-size: 1750px;
     background-repeat: no-repeat;
     background-position: right;

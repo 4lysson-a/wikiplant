@@ -1,11 +1,11 @@
-.verde{
-    color: green;
+.verde {
+  color: green;
 }
 
-section#equipe h1{
-    position: absolute;
+section#equipe h1 {
+  position: absolute;
 }
-section#equipe h1{
+section#equipe h1 {
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   border-bottom-left-radius: 10px;
@@ -17,7 +17,7 @@ section#equipe h1{
   right: 40%;
   margin: 0px;
 }
-section#equipe p{
+section#equipe p {
   position: absolute;
   top: 39%;
   right: 30%;
@@ -27,61 +27,58 @@ section#equipe p{
   box-shadow: 0px 0px 10px black;
   background: black;
 }
-section#equipe{
+section#equipe {
   text-align: center;
   width: 100%;
-	margin-top: 0px;
+  margin-top: 0px;
   height: 800px;
   color: #fff;
-  background-image: url(../_img/staff.jpg);
+  background-image: url(../img/staff.jpg);
 }
-section#equipe div{
+section#equipe div {
   border: 1px solid black;
   background: #000;
-
 }
 
-img.staff{
+img.staff {
   width: 12%;
   border-radius: 200px;
   position: absolute;
   transition: 0.2s;
-  top: 450PX;
+  top: 450px;
   box-shadow: 0px 0px 0px black;
-	filter: grayscale(0.3);
-
+  filter: grayscale(0.3);
 }
-div#box{
+div#box {
   margin-left: 12%;
   background: #000;
 }
-img.staff:hover{
+img.staff:hover {
   cursor: pointer;
   transform: scale(1.1);
-	filter: grayscale(0);
-  box-shadow: 0px 0px 30px rgba(0,0,0,0.4);
+  filter: grayscale(0);
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.4);
 }
-img#aly{
+img#aly {
   margin-left: 5%;
 }
-img#lea{
+img#lea {
   margin-left: 15%;
 }
-img#let{
+img#let {
   margin-left: 25%;
 }
-img#grazi{
+img#grazi {
   margin-left: 35%;
 }
-img#gle{
+img#gle {
   margin-left: 45%;
 }
-img#eliz{
+img#eliz {
   margin-left: 55%;
 }
 
-
-.caixa{
+.caixa {
   height: 80%;
   width: 0;
   position: absolute;
@@ -98,33 +95,33 @@ img#eliz{
 .caixa .closebtn:hover {
   color: red;
   text-decoration: none;
-	transform: rotate(40deg);
+  transform: rotate(40deg);
 }
 .caixa .closebtn {
-  color: rgba( 20, 178, 39, 0.859 );
+  color: rgba(20, 178, 39, 0.859);
   position: absolute;
   top: 0;
   right: 25px;
   z-index: 1;
-	transition: 0.2s;
+  transition: 0.2s;
   font-size: 36px;
   text-decoration: none;
 }
-#tudo{
+#tudo {
   transition: 1s;
 }
-div.caixa{
+div.caixa {
   top: 10%;
   right: 34%;
   position: absolute;
 }
-div.caixa header{
+div.caixa header {
   width: 500px;
   height: 210px;
-  background-image: url(../_img/Wallpaper.jpg);
+  background-image: url(../img/Wallpaper.jpg);
   position: relative;
 }
-div.caixa header img{
+div.caixa header img {
   height: 200px;
   right: -30%;
   box-shadow: 0px 0px 10px black;
@@ -132,7 +129,7 @@ div.caixa header img{
   position: relative;
   border-radius: 100px;
 }
-.caixa h1{
+.caixa h1 {
   color: #fff;
   text-align: center;
   font-size: 17pt;
@@ -140,7 +137,7 @@ div.caixa header img{
   margin-right: 90px;
   border-bottom: 1px solid #3ae131;
 }
-.caixa h2{
+.caixa h2 {
   font-size: 12pt;
   position: absolute;
   margin: 0px;
@@ -148,7 +145,7 @@ div.caixa header img{
   right: 102px;
   top: 258px;
 }
-.caixa p{
+.caixa p {
   color: #fff;
   position: absolute;
   top: 60%;
@@ -156,28 +153,28 @@ div.caixa header img{
   text-align: center;
   font-size: 10pt;
   margin-left: 70px;
-	margin-right: 10px;
+  margin-right: 10px;
 }
-.caixa span{
+.caixa span {
   position: absolute;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #3ae131;
   font-size: 50pt;
   right: 100%;
   top: -50%;
 }
-.caixa img.icon:hover{
+.caixa img.icon:hover {
   box-shadow: 0px 0px 3px green;
   border-radius: 90px;
   transform: scale(1.2);
 }
-.caixa img.icon{
+.caixa img.icon {
   transition: 0.2s;
   width: 40px;
   margin-left: 20px;
   /*margin-right: 10px;*/
 }
-.caixa div#icon{
+.caixa div#icon {
   position: relative;
   top: 40%;
 }
