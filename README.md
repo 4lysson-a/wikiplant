@@ -1,5 +1,7 @@
 # wikiplant
 
+![wallpaper](./img/page_layout.png)
+
 ## Sistema de informações e ajuda sobre cultivo de plantas
 
 ### Descrição
